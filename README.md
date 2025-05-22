@@ -62,6 +62,9 @@ GPA: 2.65 / 4.00
 - **Tools**: Git, GitHub, Postman, Swagger  
 - **Other**: REST APIs, Unit Testing, Debugging, Agile
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+
+
 ---
 
 ### 📫 Contact
