@@ -9,6 +9,9 @@ I'm a junior Full Stack .NET Developer based in Cairo, Egypt 🇪🇬
 Graduated from ITI's intensive Full Stack .NET track with hands-on experience in real-world projects.  
 Passionate about building secure, scalable, and maintainable systems using C#, ASP.NET Core, and modern frontend frameworks.
 
+                        <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>
+
+
 ---
 
 ### 🎓 Education
